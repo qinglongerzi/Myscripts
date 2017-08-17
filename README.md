@@ -1,3 +1,1 @@
-# Myscripts
-- [Python challenge](http://www.pythonchallenge.com/)
-- [leetcode](https://leetcode.com/)
+Scripts Tamplate for runtine work.
